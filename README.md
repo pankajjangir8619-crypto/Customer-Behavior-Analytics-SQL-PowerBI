@@ -95,7 +95,7 @@ This project focuses on analyzing customer purchasing patterns, demographics, sp
 
 ### Dashboard Screenshot
 
-![Customer Behavior Dashboard](dashboard)
+![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
